@@ -1,0 +1,13 @@
+C:\Users\Machu\source\repos\tiktactoe\tiktactoe\bin\Debug\tiktactoe.exe.config
+C:\Users\Machu\source\repos\tiktactoe\tiktactoe\bin\Debug\tiktactoe.exe
+C:\Users\Machu\source\repos\tiktactoe\tiktactoe\bin\Debug\tiktactoe.pdb
+C:\Users\Machu\source\repos\tiktactoe\tiktactoe\bin\Debug\tiktactoe.xml
+C:\Users\Machu\source\repos\tiktactoe\tiktactoe\obj\Debug\tiktactoe.vbprojAssemblyReference.cache
+C:\Users\Machu\source\repos\tiktactoe\tiktactoe\obj\Debug\tiktactoe.Form1.resources
+C:\Users\Machu\source\repos\tiktactoe\tiktactoe\obj\Debug\tiktactoe.Resources.resources
+C:\Users\Machu\source\repos\tiktactoe\tiktactoe\obj\Debug\tiktactoe.vbproj.GenerateResource.cache
+C:\Users\Machu\source\repos\tiktactoe\tiktactoe\obj\Debug\tiktactoe.vbproj.CoreCompileInputs.cache
+C:\Users\Machu\source\repos\tiktactoe\tiktactoe\obj\Debug\tiktactoe.exe
+C:\Users\Machu\source\repos\tiktactoe\tiktactoe\obj\Debug\tiktactoe.xml
+C:\Users\Machu\source\repos\tiktactoe\tiktactoe\obj\Debug\tiktactoe.pdb
+C:\Users\Machu\source\repos\tiktactoe\tiktactoe\obj\Debug\tiktactoe.Form2.resources
